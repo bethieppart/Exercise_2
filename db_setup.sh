@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #mount data directory
-mount -t ext4 /dev/xvdg /data
+mount -t ext4 /dev/xvdf /data
 
 #switch to python 2.7
 source /opt/py27environment/bin/activate
