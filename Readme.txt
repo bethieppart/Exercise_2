@@ -13,4 +13,4 @@ STEPS TO RUN EX2:
 10. When you see a word count reach 10 stop the application with ^C
 11. Run finalresults.py with no argument: python finalresults.py
 12. Run finalresults.py with a common word argument: python finalresults.py the
-13. Run histogram.py to see all the words with counts between 6-10: python histogram.py 6,10
+13. Run histogram.py to see all the words with counts between 6-10: python histogram.py 5,10
