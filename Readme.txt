@@ -13,7 +13,7 @@ STEPS TO RUN EX2:
 4. Change to Exercise_2 directory: cd Exercise_2
 5. Make the db_setup script executable: chmod a+x db_setup.sh
 6. Execute the setup script: bash db_setup.sh
-7. Change to the EX2Tweetwordcount directory: cd EX2Tweetwordcount
+7. Change to the tweetwordcount directory: cd tweetwordcount
 8. Run the application: sparse run
 9. When you see a word count reach 10 stop the application with ^C
 10. Run finalresults.py with no argument: python finalresults.py
