@@ -5,7 +5,6 @@ mount -t ext4 /dev/xvdg /data
 
 #switch to python 2.7
 source /opt/py27environment/bin/activate
-mv tweetwordcount EXTwoTweetwordcount
 
 #start hadoop and postgres
 /data/start_postgres.sh
